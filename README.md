@@ -26,9 +26,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Features
 
-
 **Screen Recording**: Capture your screen with ease.
+
 **Audio Recording**: Record audio along with your screen.
+
 **Customizable**: Easily customize and extend the extension based on your requirements.
 
 ## Learn More
@@ -46,5 +47,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
-***Feel free to customize the content further based on the specific features and details of your Chrome extension.***
+**_Feel free to customize the content further based on the specific features and details of your Chrome extension._**
