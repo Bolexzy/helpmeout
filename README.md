@@ -2,6 +2,7 @@
 
 This Chrome extension allows you to easily record your screen and audio. It is built using [Next.js](https://nextjs.org/) and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+code: https://github.com/Bolexzy/helpmeoutext
 
 ## Getting Started
 
