@@ -21,3 +21,12 @@
 body {
   font-family: Work Sans, "Sora";
 }
+
+main .how_it_works {
+  color: #141414;
+  font-family: Sora;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
